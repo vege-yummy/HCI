@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{6184CF02-CEF1-4321-4CFA-2DC30A6B07D4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/rotateSky.cs">
+    <Files>
+      <File FileName="Assets/Scripts/rotateSky.cs" Line="11" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c1436dcd-4bbf-478b-afc1-ec296c0fbe85" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
